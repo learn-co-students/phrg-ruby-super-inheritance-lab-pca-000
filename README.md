@@ -13,4 +13,9 @@ In this lab, you'll be coding a `Student` class, which will be the parent class,
 * Write a method in the `Student` class, `raise_hand`, that `puts` out the phrase: `"Pick me!"`
 * Write a method in the `ChattyStudent` class, `#hello`, that uses the `super` keyword to inherit the behavior of the `#hello` method from the parent, `Student`, class. Then, augment that method to also `puts` out the very chatty phrase: `"How are you doing today? I'm okay, but I'm kind of tired. Did you watch The Walking Dead last night? You didn't?! Oh man, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."`
 * Write a method in the `ChattyStudent` class, `raise_hand`, that uses the `super` keyword ten times so that the method will `puts` out `"Pick me!"` ten times. **It is possible to simply call `super` multiple times in a method**. 
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-super-inheritance-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-super-inheritance-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Super Inheritance Lab</p>
